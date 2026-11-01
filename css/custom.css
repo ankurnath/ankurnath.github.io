@@ -130,10 +130,10 @@ section.resume-section li { margin-bottom: 0.35rem; }
 
 /* Education logos */
 .edu-logo {
-  width: 56px;
-  height: 56px;
+  width: 32px;
+  height: 32px;
   object-fit: contain;
   flex-shrink: 0;
-  margin: 0.15rem 1.25rem 0.75rem 0;
+  margin: 0.1rem 0.9rem 0.5rem 0;
 }
 #education .resume-item .resume-content { flex: 1 1 auto; }
