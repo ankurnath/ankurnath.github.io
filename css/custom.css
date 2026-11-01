@@ -127,3 +127,13 @@ section.resume-section li { margin-bottom: 0.35rem; }
 @media (min-width: 992px) {
   #sideNav .navbar-brand .img-profile { border: 0.3rem solid rgba(255, 255, 255, 0.15); }
 }
+
+/* Education logos */
+.edu-logo {
+  width: 56px;
+  height: 56px;
+  object-fit: contain;
+  flex-shrink: 0;
+  margin: 0.15rem 1.25rem 0.75rem 0;
+}
+#education .resume-item .resume-content { flex: 1 1 auto; }
